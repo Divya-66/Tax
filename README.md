@@ -1,4 +1,5 @@
 # GST Assistant: Intelligent Tax Management Platform
+## (GOOGLE GIRL HACKATHON)
 
 ## Overview
 The GST Assistant is a cutting-edge, user-friendly web application designed to revolutionize Goods and Services Tax (GST) management for businesses of all sizes. By leveraging modern technologies, it simplifies tax compliance, automates invoice reconciliation, and provides real-time analytics to ensure businesses stay ahead of deadlines and regulations. This project is a game-changer for small and medium enterprises, reducing manual effort and minimizing compliance risks.
