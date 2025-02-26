@@ -193,9 +193,9 @@ Access the app at http://localhost:5173.
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Contact
-- **Author**: [Your Name]
-- **Email**: your.email@example.com
-- **GitHub**: https://github.com/your-username
+- **Author**: Divya Sabharwal
+- **Email**: divyasbhrwal6@gmail.com
+- **GitHub**: https://github.com/Divya-66
 - **LinkedIn**: https://linkedin.com/in/your-profile
 
 ## Directory Structure
